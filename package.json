@@ -1,0 +1,17 @@
+{
+  "name": "notion-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^5.0.0",
+    "express": "^5.1.0",
+    "body-parser": "^2.2.0"
+  }
+}
